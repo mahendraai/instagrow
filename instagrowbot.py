@@ -3,10 +3,10 @@ bot = Bot()
 bot.login(username="", password="")
 
 ######  upload a picture #######
-bot.upload_photo("car.jpg", caption="Cocacola drinking")
+bot.upload_photo("myimage.jpg", caption="Expert AI")
 
 ######  follow someone #######
-bot.follow("ritikroshan")
+bot.follow("vipcodder")
 
 ######  send a message #######
 bot.send_message("I am Mahendra from Vipcodder", ['user1','user2'])
