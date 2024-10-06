@@ -9,7 +9,7 @@ bot.upload_photo("myimage.jpg", caption="Expert AI")
 bot.follow("vipcodder")
 
 ######  send a message #######
-bot.send_message("I am Mahendra from Vipcodder", ['user1','user2'])
+bot.send_message("I am Mahendra from heymate.in", ['user1','user2'])
 
 ######  get follower info #######
 my_followers = bot.get_user_followers("mahendrakumarribadiya")
